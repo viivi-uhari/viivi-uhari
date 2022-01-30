@@ -8,7 +8,7 @@ I’m learning new things about Computer Science every day
 that make me fascinated about the subject even more:
 Software Engineering, Human-Computer Interaction, Web Software Development, ...
 
-Programming languages:
+My programming languages:
 - Scala
 - C
 - Python 
