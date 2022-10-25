@@ -6,7 +6,7 @@ and to solve actual problems by using logic.
 
 I’m learning new things about Computer Science every day
 that make me fascinated about the subject even more:
-Software Engineering, Human-Computer Interaction, Web Software Development, ...
+Software Engineering, Data Engineering, Human-Computer Interaction, Web Software Development, ...
 
 My programming languages:
 - Scala
@@ -15,3 +15,4 @@ My programming languages:
 - JavaScript
 - HTML, CSS
 - SQL
+- Terraform
