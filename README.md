@@ -9,10 +9,10 @@ that make me fascinated about the subject even more:
 Software Engineering, Data Engineering, Human-Computer Interaction, Web Software Development, ...
 
 My programming languages:
-- Scala
-- C
+- Scala 
 - Python 
-- JavaScript
+- C, C++
+- JavaScript, TypeScript 
 - HTML, CSS
 - SQL
 - Terraform
