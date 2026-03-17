@@ -1,6 +1,6 @@
 Hi, I’m @viivi-uhari
 
-I’m a developer interested in user-centered software design and development. I enjoy solving real-world problems by combining creativity with structured, logical thinking.
+I’m interested in user-centered software design and development. I enjoy solving real-world problems by combining creativity with structured, logical thinking.
 
 My top projects:
 - [portfolio](https://github.com/viivi-uhari/portfolio) – Personal website showcasing my projects and technical skills
@@ -10,12 +10,12 @@ My top projects:
 - [recipe-stash](https://github.com/portmil/recipe-stash) – Web application for quickly saving and organizing personal recipes
 
 My programming languages:
-**- JavaScript 
-- HTML
-- CSS
-- Python
-- Scala
-- Dart**
+- **JavaScript** 
+- **HTML**
+- **CSS**
+- **Python**
+- **Scala**
+- **Dart**
 - TypeScript
 - C
 - C++
