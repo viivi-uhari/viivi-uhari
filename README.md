@@ -10,13 +10,12 @@ My top projects:
 - [recipe-stash](https://github.com/portmil/recipe-stash) – Web application for quickly saving and organizing personal recipes
 
 My programming languages:
-- **JavaScript** 
+- **JavaScript, TypeScript** 
 - **HTML**
 - **CSS**
 - **Python**
 - **Scala**
 - **Dart**
-- TypeScript
 - C
 - C++
 
