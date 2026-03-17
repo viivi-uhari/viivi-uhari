@@ -3,7 +3,7 @@ Hi, I’m @viivi-uhari
 I’m interested in user-centered software design and development. I enjoy solving real-world problems by combining creativity with structured, logical thinking.
 
 My top projects:
-- [portfolio](https://github.com/viivi-uhari/portfolio) – Personal website showcasing my projects and technical skills
+- [portfolio](https://github.com/viivi-uhari/portfolio) – Personal website showcasing my projects and academic papers
 - [memory-game](https://github.com/viivi-uhari/memory-game) – Hosted memory game built with Flutter and Dart
 - [css-framework-comparison](https://github.com/kiiamakir/css-framework-comparison) – Project to compare three CSS frameworks
 - [qa-app](https://github.com/viivi-uhari/qa-app) – Web application with scalable features for answering course-related questions
@@ -42,3 +42,5 @@ Other technologies:
 - Docker
 - AWS
 - Terraform
+- Firebase
+- Vercel
