@@ -1,31 +1,44 @@
 Hi, I’m @viivi-uhari
 
-I’m interested in user-centered software design and development. 
-I enjoy programming because it gives you the opportunity to be creative
-and to solve actual problems by using logic.
+I’m a developer interested in user-centered software design and development. I enjoy solving real-world problems by combining creativity with structured, logical thinking.
 
-I’m learning new things about Computer Science every day
-that make me fascinated about the subject even more:
-Human-Computer Interaction, Web Software Development, Software Engineering, Data Engineering, ...
+My top projects:
+- [portfolio](https://github.com/viivi-uhari/portfolio) – Personal website showcasing my projects and technical skills
+- [memory-game](https://github.com/viivi-uhari/memory-game) – Hosted memory game built with Flutter and Dart
+- [css-framework-comparison](https://github.com/kiiamakir/css-framework-comparison) – Project to compare three CSS frameworks
+- [qa-app](https://github.com/viivi-uhari/qa-app) – Web application with scalable features for answering course-related questions
+- [recipe-stash](https://github.com/portmil/recipe-stash) – Web application for quickly saving and organizing personal recipes
 
 My programming languages:
-- Scala, Python 
-- JavaScript, TypeScript 
-- HTML, CSS
-- SQL
-- C, C++
-- Terraform
+**- JavaScript 
+- HTML
+- CSS
+- Python
+- Scala
+- Dart**
+- TypeScript
+- C
+- C++
 
-Frameworks/libraries/technologies I'm familiar with:
+Frontend:
 - React
 - Next.js
-- Node.js
-- Deno
-- Svelte, Astro, Tailwind
-
-- Bootstrap, MUI
+- Svelte
+- Astro
+- Tailwind
+- Bootstrap
+- MUI
+- Foundation
 - Styled Components
 
-- Mondo DB, PostgreSQL
+Backend:
+- Node
+- Deno
+- PostgreSQL
+- Supabase
+- Mondo DB
+
+Other technologies:
 - Docker
 - AWS
+- Terraform
