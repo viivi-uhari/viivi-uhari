@@ -41,5 +41,6 @@ Other technologies:
 - Docker
 - AWS
 - Terraform
+- Databricks
 - Firebase
 - Vercel
