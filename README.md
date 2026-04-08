@@ -31,7 +31,7 @@ Frontend:
 - Styled Components
 
 Backend:
-- Node
+- Node.js
 - Deno
 - PostgreSQL
 - Supabase
