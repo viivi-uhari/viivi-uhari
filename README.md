@@ -42,5 +42,6 @@ Other technologies:
 - AWS
 - Terraform
 - Databricks
+- Flutter
 - Firebase
 - Vercel
