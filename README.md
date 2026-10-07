@@ -22,6 +22,7 @@ My programming languages:
 Frontend:
 - React
 - Next.js
+- Vite
 - Svelte
 - Astro
 - Tailwind
