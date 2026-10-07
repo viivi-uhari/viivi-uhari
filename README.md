@@ -16,6 +16,7 @@ My programming languages:
 - **Python**
 - **Scala**
 - **Dart**
+- C#
 - C
 - C++
 
